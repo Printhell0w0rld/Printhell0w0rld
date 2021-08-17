@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Printhell0w0rld
+- 👋 Hi, I’m @Printhell0w0rld, a nobody, a student from Taiwan
 - 👀 I’m interested in Computer Science and Math.
 - 🌱 I’m currently learning some knowledge about Computer Science and machine learning.
 - 💞️ I’m not looking to collaborate but if you want just email me.
